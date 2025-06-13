@@ -1,8 +1,9 @@
 const names = ['Edoardo', 'Simone', 'Francesco'];
 
-names.forEach((element, i, array) => { 
-    console.log(element)
+names.forEach((element, i, array) => {
+    // Stampa in console tutti i nomi
+    console.log(element)  // Risultato: 'Edoardo', 'Simone', 'Francesco'
+
 });
 
-// Stampa in console tutti i nomi
- // Risultato: 'Edoardo', 'Simone', 'Francesco'
+
