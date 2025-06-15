@@ -8,5 +8,4 @@ const even = nums.filter((notOdd) => {
     } else return false
  
 })
-console.log(even);
-// Risultato: [2, 8, 4, 12]
+console.log(even); // Risultato: [2, 8, 4, 12]
